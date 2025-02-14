@@ -1,6 +1,6 @@
-# myapp
+# myapp-planetas
 
-A new Flutter project.
+Esse projeto foi desenvolvido para uma classe de planetas
 
 ## Getting Started
 
